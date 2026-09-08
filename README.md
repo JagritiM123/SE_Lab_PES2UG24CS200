@@ -2,13 +2,6 @@
 
 **Scenario:** Patient Health Record Consent Management System
 
-## Contents
-
-| File | Description |
-|---|---|
-| `Patient_Consent_Component_Diagram.png` | UML component diagram (exported, satisfies the PNG/PDF deliverable) |
-| `Patient_Consent_Component_Diagram.drawio` | Editable source file — open at [app.diagrams.net](https://app.diagrams.net) or in the draw.io desktop app |
-| `Lab3_Patient_Consent_Report.docx` | Full write-up: scenario analysis, architectural style comparison, selected architecture, component list, and the one-page written justification |
 
 ## Architecture Selected
 
