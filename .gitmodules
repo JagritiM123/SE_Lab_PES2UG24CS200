@@ -1,0 +1,3 @@
+[submodule "13_minesweeper"]
+	path = 13_minesweeper
+	url = https://github.com/JagritiM123/13_minesweeper
